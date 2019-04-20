@@ -1,0 +1,15 @@
+{
+  "name": "react-js-fundamental",
+  "version": "1.0.0",
+  "description": "This is a project for React JS Fundementals Workshop",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"**/*.{js,css,json}\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^1.17.0"
+  }
+}
